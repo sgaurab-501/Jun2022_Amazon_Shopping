@@ -1,0 +1,6 @@
+browser = chrome
+url = https://www.amazon.in/
+username = gaurabk098@gmail.com
+password = Press@123
+headless = false
+highlight = false
